@@ -10,6 +10,10 @@ Atualmente, estou em busca de uma oportunidade de estágio onde eu possa colocar
 
 🔧 Atualmente estou estudando frameworks, JavaScript e design gráfico.
 
+Entre em contato comigo:
+📱(61)99581-0566
+📨 Email: beatrizsolangee@gmail.com
+
 
 ---
 
