@@ -8,7 +8,7 @@
 
 Atualmente, estou em busca de uma oportunidade de estágio onde eu possa colocar em prática o que venho aprendendo, desenvolver novas habilidades e crescer profissionalmente.
 
-🔧 Atualmente estou iniciando os estudos em  frameworks, JavaScript e design gráfico.
+🔧 Atualmente estou estudando frameworks, JavaScript e design gráfico.
 
 
 ---
