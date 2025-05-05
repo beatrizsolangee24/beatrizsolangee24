@@ -19,6 +19,26 @@ Aqui você vai encontrar meus projetos!
 
 ---
 
+# (ENGLISH)👩🏻‍💻 Beatriz Moraes
+
+**`Internet Systems Technology Student`**
+
+💻 Hi! My name is Beatriz, I'm 20 years old and a student of Internet Systems Technology at the Federal Institute of Brasília.
+
+I'm passionate about the world of technology, with a special interest in front-end development and graphic design. I enjoy turning ideas into beautiful, functional, and accessible interfaces.
+
+I'm currently looking for an internship opportunity where I can apply what I've been learning, develop new skills, and grow professionally.
+
+🔧 I'm currently studying frameworks, JavaScript, and graphic design.
+
+Here you’ll find my projects!
+
+<br>Get in touch with me:<br/>
+📱 (61) 99581-0566<br>
+📨 Email: beatrizsolangee@gmail.com
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
