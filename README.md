@@ -10,7 +10,7 @@ Atualmente, estou em busca de uma oportunidade de estágio onde eu possa colocar
 
 🔧 Atualmente estou estudando frameworks, JavaScript e design gráfico.
 
-Aqui você vai encontrar meus projetos pessoais!
+Aqui você vai encontrar meus projetos!
 
  <br>Entre em contato comigo:<br/>
 📱(61)99581-0566<br>
