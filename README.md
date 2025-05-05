@@ -13,7 +13,7 @@ Atualmente, estou em busca de uma oportunidade de estágio onde eu possa colocar
 Aqui você vai encontrar meus projetos!
 
  <br>Entre em contato comigo:<br/>
-📱(61)99581-0566<br>
+👩🏽‍💻LinkdIn: www.linkedin.com/in/beatriz-moraes-2417492b4<br>
 📨 Email: beatrizsolangee@gmail.com
 
 
@@ -34,7 +34,7 @@ I'm currently looking for an internship opportunity where I can apply what I've 
 Here you’ll find my projects!
 
 <br>Get in touch with me:<br/>
-📱 (61) 99581-0566<br>
+👩🏽‍💻LinkdIn: www.linkedin.com/in/beatriz-moraes-2417492b4<br>
 📨 Email: beatrizsolangee@gmail.com
 
 ---
