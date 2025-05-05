@@ -4,11 +4,13 @@
 
 💻 Olá! Me chamo Beatriz, tenho 20 anos e sou estudante de Tecnologia em Sistemas para Internet no Instituto Federal de Brasília.
 
- Sou apaixonada por tecnologia, com um carinho especial por desenvolvimento front-end e design gráfico. Gosto de transformar ideias em interfaces bonitas, funcionais e acessíveis.
+ Gosto muito do mundo da tecnologia, com um carinho especial por desenvolvimento front-end e design gráfico. Gosto de transformar ideias em interfaces bonitas, funcionais e acessíveis.
 
 Atualmente, estou em busca de uma oportunidade de estágio onde eu possa colocar em prática o que venho aprendendo, desenvolver novas habilidades e crescer profissionalmente.
 
 🔧 Atualmente estou estudando frameworks, JavaScript e design gráfico.
+
+Aqui você vai encontrar meus projetos pessoais!
 
  <br>Entre em contato comigo:<br/>
 📱(61)99581-0566<br>
